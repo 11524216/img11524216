@@ -68,7 +68,6 @@ function setup() {
   classifyVideo();
 
 }
-}
 
 function draw() {
   background(0);
